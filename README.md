@@ -64,3 +64,7 @@ The notebook is divided into several sections:
 </ul>
 <h1><b>Results and Evaluation</b></h1>
 The results of the logistic regression model are analyzed and visualized using Matplotlib and Seaborn. The project includes a comprehensive analysis of the model's performance, along with visualizations to help understand its effectiveness in classification tasks.
+
+![Screenshot 2024-08-09 224004](https://github.com/user-attachments/assets/30e78d47-c3d2-4d7c-a678-7411c1df909f)
+![Screenshot 2024-08-09 224017](https://github.com/user-attachments/assets/1c1258e0-56ef-44c4-8c4e-8a5424d17971)
+
